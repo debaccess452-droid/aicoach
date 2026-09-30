@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import {createRoot} from 'react-dom/client';
-import {Home,History as HistoryIcon,ChartNoAxesCombined,Bot,User,Utensils,ArrowLeft,ChevronRight,Camera,Search,Mic,Image,Send,Bell,Target,Shield,HelpCircle,Info,Sparkles} from 'lucide-react';
+import {Home,History as HistoryIcon,ChartNoAxesCombined,Bot,User,Utensils,ArrowLeft,ChevronRight,Camera,Search,Mic,Image,Send,Bell,Target,Shield,HelpCircle,Info,Sparkles,MoreVertical} from 'lucide-react';
 import './styles.css';
 
 const nav=[['home','Home',Home],['history','History',HistoryIcon],['progress','Progress',ChartNoAxesCombined],['ai_coach','AI Coach',Bot],['profile','Profile',User]];
